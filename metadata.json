@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Poda",
+  "description": "Aplicación para la gestión de solicitudes de servicios de poda de árboles urbanos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
